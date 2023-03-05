@@ -1,4 +1,3 @@
-# Keerthi
 <h1 align="center">Hi 👋, I'm Keerthi</h1>
 <h3 align="center">A curious and innovative student with a strong interest in data science, artificial intelligence, and predictive modeling. Seeking a dynamic internship that provides hands-on experience and exposure to real-world data science applications.</h3>
 
